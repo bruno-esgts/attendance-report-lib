@@ -22,11 +22,9 @@ Add this repository to your `pom.xml` file.
 ```xml
     <repositories>
         <repository>
-            <repository>
-                <id>mvn-brunojesus</id>
-                <name>Bruno Jesus MVN Repo</name>
-                <url>https://mvn.brunojesus.pt/releases</url>
-            </repository>
+            <id>mvn-brunojesus</id>
+            <name>Bruno Jesus MVN Repo</name>
+            <url>https://mvn.brunojesus.pt/releases</url>
         </repository>
     </repositories>
 ```
