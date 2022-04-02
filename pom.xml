@@ -36,9 +36,9 @@
 
     <distributionManagement>
         <repository>
-            <id>github</id>
-            <name>GitHub bruno-esgts Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/bruno-esgts/attendance-report-lib</url>
+            <id>mvn-brunojesus</id>
+            <name>Bruno Jesus MVN Repo</name>
+            <url>https://mvn.brunojesus.pt/releases</url>
         </repository>
     </distributionManagement>
 

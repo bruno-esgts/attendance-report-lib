@@ -20,13 +20,15 @@ Add this dependency to your `pom.xml` file.
 
 Add this repository to your `pom.xml` file.
 ```xml
-    <distributionManagement>
+    <repositories>
         <repository>
-            <id>github</id>
-            <name>GitHub bruno-esgts Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/bruno-esgts/attendance-report-lib</url>
+            <repository>
+                <id>mvn-brunojesus</id>
+                <name>Bruno Jesus MVN Repo</name>
+                <url>https://mvn.brunojesus.pt/releases</url>
+            </repository>
         </repository>
-    </distributionManagement>
+    </repositories>
 ```
 
 
